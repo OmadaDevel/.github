@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### Omada is an anarchy group founded by daddy Fluff.
-Founded **June 2021**.
+Founded **May 2021**.
 
 High Ranking Members (OG's)
 ```d
