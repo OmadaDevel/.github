@@ -9,22 +9,18 @@ High Ranking Members (OG's)
 - GypsySkull
 - Sildro
 - WhatsVape
-```
-Well-Known Members
-```d
 - Wammuu
 - NSnippy
 - Idk_Carl
 - Postal Dude
+- LegoTech
+- LuxSemper
 ```
-
 
 <!--
 OmadaDevel is for the developers of Omada to post their things to
 
 current projects
 
-omada site
-postman omada rel
-beach house
+omada site and the omada client
 -->
