@@ -1,8 +1,10 @@
+**Omada** ΕΠΕ est. April 2021
+
 ## Hi there 👋
 
-#### Omada is an anarchy group founded by daddy Fluff.
+#### Omada is an group founded by daddy Fluff.
+OmadaDevel is for the developers of Omada to post their things to
 
-est. 27th of April 2021
 
 Members
 ```d
